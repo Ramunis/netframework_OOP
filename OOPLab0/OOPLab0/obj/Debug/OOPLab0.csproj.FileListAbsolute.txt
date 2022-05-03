@@ -1,0 +1,11 @@
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\bin\Debug\OOPLab0.exe.config
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\bin\Debug\OOPLab0.exe
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\bin\Debug\OOPLab0.pdb
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.csprojAssemblyReference.cache
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.Form1.resources
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.Properties.Resources.resources
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.csproj.GenerateResource.cache
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.csproj.CoreCompileInputs.cache
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.csproj.CopyComplete
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.exe
+C:\Users\sevam\source\repos\OOPLab0\OOPLab0\obj\Debug\OOPLab0.pdb

@@ -1,0 +1,6 @@
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\bin\Debug\PercentLibrary.dll
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\bin\Debug\PercentLibrary.pdb
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\obj\Debug\PercentLibrary.csprojAssemblyReference.cache
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\obj\Debug\PercentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\obj\Debug\PercentLibrary.dll
+C:\Users\sevam\source\repos\PercentLibrary\PercentLibrary\obj\Debug\PercentLibrary.pdb
